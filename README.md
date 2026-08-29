@@ -1,2 +1,0 @@
-# fck
-first_project_squad_equation_summer_school_yo
