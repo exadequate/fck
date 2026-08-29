@@ -1,7 +1,6 @@
+int read_coef(double* var);
 
-int read_coeffs(double* var);
-
-int read_coeffs(double* var)
+int read_coef(double* var)
 {
     int ret_val = 0;
     ret_val = scanf("%lg", var);
